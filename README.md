@@ -27,7 +27,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/amy-mai-86261b1b6/"><img src="https://img.shields.io/badge/-Amy%20Mai-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:amymainyc@gmail.com"><img src="https://img.shields.io/badge/-amymainyc@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/amymainyc"><img src="https://img.shields.io/badge/-@amymainyc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:amymainyc@gmail.com"><img src="https://img.shields.io/badge/-amymainyc@gmail.com-05122A?style=flat&logo=Gmail&logoColor=D14836"/></a>
+<a href="https://www.linkedin.com/in/amy-mai-86261b1b6/"><img src="https://img.shields.io/badge/-Amy%20Mai-05122A?style=flat&logo=Linkedin&logoColor=0077B5"/></a>
+<a href="https://www.instagram.com/amymainyc"><img src="https://img.shields.io/badge/-@amymainyc-05122A?style=flat&logo=Instagram&logoColor=E4405F"/></a>
 </p>
