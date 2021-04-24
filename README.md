@@ -24,15 +24,6 @@
 ![Procreate](https://img.shields.io/badge/-Procreate-05122A?style=flat&logo=progate&logoColor=F477FC)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=f59b42)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/amymainyc">
-  <!--img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amymainyc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/-->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amymainyc&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
