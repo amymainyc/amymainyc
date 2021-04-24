@@ -8,8 +8,6 @@
 ✍️ &nbsp;I design professional logos and custom art.\
 🎹 &nbsp;I listen to, write, and perform music. 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -36,7 +34,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amy-mai-86261b1b6/"><img src="https://img.shields.io/badge/-Amy%2Mai-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amy-mai-86261b1b6/"><img src="https://img.shields.io/badge/-Amy%20Mai-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:amymainyc@gmail.com"><img src="https://img.shields.io/badge/-amymainyc@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/amymainyc"><img src="https://img.shields.io/badge/-@amymainyc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
