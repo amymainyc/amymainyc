@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a full-stack developer.\
-🎓 &nbsp;I'm studying at Stuyvesant High School in NYC.\
+🎓 &nbsp;I study at Stuyvesant High School in NYC.\
 🌱 &nbsp;I'm passionate about environmental sustainability.\
 ✍️ &nbsp;I design professional logos and custom art.\
 🎹 &nbsp;I listen to, write, and perform music. 
