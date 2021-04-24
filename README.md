@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Procreate](https://img.shields.io/badge/-Procreate-05122A?style=flat&logo=paypal&logoColor=F477FC)&nbsp;
+![Procreate](https://img.shields.io/badge/-Procreate-05122A?style=flat&logo=progate&logoColor=F477FC)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=f59b42)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
