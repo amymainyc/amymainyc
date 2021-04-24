@@ -24,7 +24,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/amymainyc">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amymainyc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amymainyc&layout=compact&langs_count=8&theme=algolia"/>
@@ -33,7 +33,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/amy-mai-86261b1b6/"><img src="https://img.shields.io/badge/-Amy%20Mai-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:amymainyc@gmail.com"><img src="https://img.shields.io/badge/-amymainyc@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/amymainyc"><img src="https://img.shields.io/badge/-@amymainyc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
