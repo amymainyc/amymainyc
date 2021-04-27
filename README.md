@@ -4,9 +4,9 @@
 
 💻 &nbsp;I'm a full-stack developer.\
 🎓 &nbsp;I study at Stuyvesant High School in NYC.\
+✍️ &nbsp;I design professional logos and custom art on my free time.\
 🌱 &nbsp;I'm passionate about environmental sustainability.\
-✍️ &nbsp;I design professional logos and custom art.\
-🎹 &nbsp;I listen to, write, and perform music. 
+🎹 &nbsp;I like to listen to, write, and perform music. 
 
 ### 🛠 &nbsp;Tech Stack
 
