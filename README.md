@@ -2,11 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I'm an aspiring software developer.\
-🎓 &nbsp;I study at Stuyvesant High School in NYC.\
-✍️ &nbsp;I design professional logos and custom art on my free time.\
-🌱 &nbsp;I'm passionate about environmental sustainability.\
-🎹 &nbsp;I like to listen to, write, and perform music. 
+🏫 &nbsp;Cornell University '26.\
+🎓 &nbsp;Stuyvesant High School '22.\
+🤖 &nbsp;I make discord bots.\
+📓 &nbsp;I am learning React.\
+✍️ &nbsp;I make digital art in my free time. 
 
 ### 🛠 &nbsp;Tech Stack
 
