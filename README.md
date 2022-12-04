@@ -2,11 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🏫 &nbsp;Cornell University '26\
-🎓 &nbsp;Stuyvesant High School '22\
+🏫 &nbsp;Cornell Engineering '26\
 🤖 &nbsp;Discord bot developer\
-📓 &nbsp;Front-end developer in the making\
-✍️ &nbsp;Graphic designer on spare time
+📓 &nbsp;Front-end developer\
+✍️ &nbsp;Graphic designer
 
 ### 🛠 &nbsp;Tech Stack
 
