@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🏫 &nbsp;Cornell Engineering '26\
-🤖 &nbsp;Discord bot developer\
-📓 &nbsp;Front-end developer\
+🤖 &nbsp;Aspiring AI/ML Developer\
+📓 &nbsp;Freelance front-end developer\
 ✍️ &nbsp;Graphic designer
 
 ### 🛠 &nbsp;Tech Stack
