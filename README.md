@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🏫 &nbsp;Cornell Engineering '26\
-🤖 &nbsp;Aspiring AI/ML Developer\
-📓 &nbsp;Freelance front-end developer\
+🏫 &nbsp;Cornell University '25\
+📓 &nbsp;CS Major, ECE and Game Design Minor\
+🤖 &nbsp;Aspiring ML Developer\
 ✍️ &nbsp;Graphic designer
 
 ### 🛠 &nbsp;Tech Stack
@@ -15,7 +15,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Procreate](https://img.shields.io/badge/-Procreate-05122A?style=flat&logo=progate&logoColor=F477FC)&nbsp;
