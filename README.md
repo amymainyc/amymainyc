@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🏫 &nbsp;Cornell University '25\
-📓 &nbsp;CS Major, ECE and Game Design Minor\
+🏫 &nbsp;Cornell University CS '25\
+📓 &nbsp;ECE and Game Design Minor\
 🤖 &nbsp;Aspiring ML Developer\
 ✍️ &nbsp;Graphic designer
 
