@@ -1,5 +1,3 @@
-## 👋 &nbsp;Hey there! I'm Amy.
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 🏫 &nbsp;Cornell University CS '25\
