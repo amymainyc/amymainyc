@@ -1,9 +1,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🏫 &nbsp;Cornell University CS '25\
-📓 &nbsp;ECE and Game Design Minor\
-🤖 &nbsp;Aspiring ML Developer\
-✍️ &nbsp;Graphic designer
+📓 &nbsp;Computer Enginerring, Cognitive Science, and Game Design Minor\
+🤖 &nbsp;Specializing in machine learning!\
+✍️ &nbsp;Graphic designer and game designer on free time
 
 ### 🛠 &nbsp;Tech Stack
 
