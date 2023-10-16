@@ -20,7 +20,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=f59b42)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+Want to work on a cool project together? 
 <p align="left">
 <a href="mailto:amymainyc@gmail.com"><img src="https://img.shields.io/badge/-amymainyc@gmail.com-05122A?style=flat&logo=Gmail&logoColor=D14836"/></a>
 <a href="https://www.linkedin.com/in/amy-mai-86261b1b6/"><img src="https://img.shields.io/badge/-Amy%20Mai-05122A?style=flat&logo=Linkedin&logoColor=0077B5"/></a>
