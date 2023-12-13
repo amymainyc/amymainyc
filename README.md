@@ -2,7 +2,6 @@
 
 🏫 &nbsp;Cornell University CS '25\
 📓 &nbsp;Computer Engineering, Cognitive Science, and Game Design Minor\
-🤖 &nbsp;Specializing in machine learning!\
 ✍️ &nbsp;Graphic designer and game designer on free time
 
 ### 🛠 &nbsp;Tech Stack
