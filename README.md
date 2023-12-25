@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-🏫 &nbsp;Cornell University CS
+🏫 &nbsp;Cornell University CS '25 \
 📓 &nbsp;Computer Engineering, Cognitive Science, and Game Design Minor\
 ✍️ &nbsp;Graphic designer and game designer on free time
 
