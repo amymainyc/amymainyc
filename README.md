@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🏫 &nbsp;Cornell University CS '26 \
-📓 &nbsp;Computer Engineering, Cognitive Science, and Game Design Minor\
+📓 &nbsp;SWE Intern @ Meta
 ✍️ &nbsp;Graphic designer and game designer on free time
 
 ### 🛠 &nbsp;Tech Stack
