@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-🏫 &nbsp;Cornell University CS '26 \
+🏫 &nbsp;Cornell University \
 📓 &nbsp;SWE Intern @ Meta \
 ✍️ &nbsp;Graphic designer and game designer on free time
 
